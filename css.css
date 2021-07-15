@@ -1,0 +1,13 @@
+body, html{
+    height: 100%;
+    background-color: rgb(199, 194, 194);
+}
+.gameIMG{
+    width: 500px; 
+    height:326px;
+    position:absolute;
+    left:700px;
+    top:300px;
+    border-radius:50px;
+    border:4px solid rgb(22, 21, 21)
+}
